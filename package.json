@@ -7,9 +7,9 @@
   },
   "type": "module",
   "keywords": [],
-  "author": "",
+  "author": "Santiago Chimko",
   "license": "ISC",
-  "description": "",
+  "description": "Personal project, basic product store",
   "dependencies": {
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
